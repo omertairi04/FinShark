@@ -165,3 +165,10 @@
 /home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/omer/RiderProjects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
